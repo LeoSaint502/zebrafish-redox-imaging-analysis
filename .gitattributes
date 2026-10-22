@@ -1,0 +1,3 @@
+macros/*.ijm -text
+*.md text eol=lf
+SHA256SUMS text eol=lf
